@@ -63,8 +63,11 @@ ul {
   }
 
 .gleft {
-    margin-left: 1em;
-    outline: green solid 1px;
+    padding-left: 5%:
+}
+
+.gright{
+    padding-right: 5%;
 }
 
   .grid-container2 {
