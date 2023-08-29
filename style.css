@@ -53,9 +53,9 @@ ul {
     background-color: rgba(113, 160, 176, 1);
   }
 
- .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    background-color: #333333;
-    color: #FFFFFF;
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #333333;
+  color: #fff !important;
 }
 
   .card {
