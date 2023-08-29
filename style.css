@@ -53,10 +53,10 @@ ul {
     background-color: rgba(113, 160, 176, 1);
   }
 
-  ul.nav a:hover {
-    color: #fff !important; 
-  }
-
+ .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #333333;
+    color: #FFFFFF;
+}
 
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
