@@ -53,38 +53,6 @@ ul {
     background-color: rgba(113, 160, 176, 1);
   }
 
-.custom ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #6c6592;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-  }
-
-  .nav.custom li {
-    float: left;
-    font-family: 'Montserrat', sans-serif;
-  }
-  
-  .custom li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  .custom li a:hover {
-    background-color: #333333;
-  }
-  
-  .active.custom {
-    background-color: rgba(113, 160, 176, 1);
-  }
-
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
